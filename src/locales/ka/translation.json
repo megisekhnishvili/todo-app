@@ -1,0 +1,14 @@
+{
+    "header": {
+      "title": "TODO აპი",
+      "language": "ენა",
+      "georgian": "ქართული",
+      "english": "ინგლისური"
+    },
+    "tasks": {
+      "add": "დამატება",
+      "edit": "რედაქტირება",
+      "delete": "წაშლა"
+    }
+  }
+  
